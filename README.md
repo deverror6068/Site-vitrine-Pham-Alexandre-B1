@@ -2,7 +2,7 @@
 
 ## Contexte  ##
 
-Dans le cadre de ma formation à ynov Campus Aix il m'a été demandé de faire un site vitrine pour tester mes connaissance en CSS/HTML
+Dans le cadre de ma formation à Ynov Campus Aix  en 2023 il m'a été demandé de faire un site vitrine pour tester mes connaissance en CSS/HTML
 
 ## Installation ##
 

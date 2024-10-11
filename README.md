@@ -1,4 +1,4 @@
-*** Site vitrine de Pham Alexandre ***
+## Site vitrine de Pham Alexandre ##
 
 ** Contexte **
 
